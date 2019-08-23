@@ -1,1 +1,1 @@
-# -Minicurso-Laravel-
+# Minicurso-Laravel
